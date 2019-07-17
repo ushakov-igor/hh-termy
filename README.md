@@ -1,3 +1,8 @@
+# HH-TERMY
+![npm-version](https://img.shields.io/npm/v/hh-termy.svg)
+
+## About
+
 HH.RU IN YOUR TERMINAL!
 
 To install globally `npm i -g hh-termy`
