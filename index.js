@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const vacc = require('./app/vacancies');
 const term = require( 'terminal-kit' ).terminal
 const _ = require( 'lodash' )
