@@ -1,5 +1,6 @@
 # HH-TERMY
-![npm-version](https://img.shields.io/npm/v/hh-termy.svg)
+
+[![npm-version](https://img.shields.io/npm/v/hh-termy.svg)](https://www.npmjs.com/package/hh-termy)
 
 ## About
 
